@@ -25,3 +25,8 @@ Thumbs.db
 # Environment & Secrets
 .env
 application-local.properties
+
+# === Frontend ===
+supply-chain-frontend/node_modules/
+supply-chain-frontend/dist/
+supply-chain-frontend/.vite/
